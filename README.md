@@ -1,5 +1,5 @@
 <!-- VERSION #1 -->
-<div align="center"><br><br><br><br><img src="FelixTheCat.gif" width="384" height="372"><br><br><br><br><br></div>
+<div align="center"><br><br><br><br><img alt="Felix the Cat" src="https://github.com/Velocet/Velocet/raw/master/FelixTheCat.gif" width="384" height="372"><br><br><br><br><br></div>
 
 <!-- VERSION #2 -->
 <!-- <div align="center"><br><br><br><br><img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40"><p>Loading</p><br><br><br><br></div> -->
